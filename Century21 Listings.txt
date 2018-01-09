@@ -1,0 +1,61 @@
+			CENTURY 21 LISTINGS
+
+Style: Colonial       Bedrooms: 4   Bathrooms:  2.0 Lot size: 2.9  Square acre
+   Age: 4    Price: $350,000.00 Distance: 16  Jurisdiction: Fairfax
+
+Style: Condominium       Bedrooms: 2   Bathrooms:  2.0 Lot size: 0.0  Square acre
+   Age: 14    Price: $150,000.00 Distance: 16  Jurisdiction: District of Columbia
+
+Style: Colonial       Bedrooms: 4   Bathrooms:  2.5 Lot size: 1.0  Square acre
+   Age: 7    Price: $350,000.00 Distance: 8  Jurisdiction: Falls Church
+
+Style: Georgian       Bedrooms: 4   Bathrooms:  3.0 Lot size: 0.5  Square acre
+   Age: 14    Price: $450,000.00 Distance: 1  Jurisdiction: Alexandria
+
+Style: Townhouse       Bedrooms: 3   Bathrooms:  2.0 Lot size: 0.0  Square acre
+   Age: 6    Price: $150,000.00 Distance: 6  Jurisdiction: District of Columbia
+
+Style: Rambler       Bedrooms: 5   Bathrooms:  3.0 Lot size: 0.2  Square acre
+   Age: 7    Price: $450,000.00 Distance: 3  Jurisdiction: Fall Church
+
+Style: Townhouse       Bedrooms: 3   Bathrooms:  3.0 Lot size: 0.0  Square acre
+   Age: 9    Price: $250,000.00 Distance: 11  Jurisdiction: Fairfax
+
+Style: Colonial       Bedrooms: 3   Bathrooms:  2.0 Lot size: 2.0  Square acre
+   Age: 4    Price: $350,000.00 Distance: 16  Jurisdiction: Fairfax
+
+Style: Split-Level       Bedrooms: 4   Bathrooms:  3.0 Lot size: 2.0  Square acre
+   Age: 11    Price: $300,000.00 Distance: 2  Jurisdiction: Fairfax
+
+Style: Townhouse       Bedrooms: 3   Bathrooms:  1.0 Lot size: 0.0  Square acre
+   Age: 14    Price: $99,000.00 Distance: 6  Jurisdiction: Fairfax
+
+Style: Rambler       Bedrooms: 3   Bathrooms:  2.0 Lot size: 0.2  Square acre
+   Age: 13    Price: $249,000.00 Distance: 6.5  Jurisdiction: Alexandria
+
+Style: Condominium       Bedrooms: 4   Bathrooms:  3.0 Lot size: 0.0  Square acre
+   Age: 7    Price: $249,000.00 Distance: 4.5  Jurisdiction: Fairfax
+
+Style: Split Level       Bedrooms: 4   Bathrooms:  2.0 Lot size: 0.75  Square acre
+   Age: 16    Price: $299,000.00 Distance: 7.8  Jurisdiction: Falls Church
+
+Style: Colonial       Bedrooms: 4   Bathrooms:  3.5 Lot size: 0.4  Square acre
+   Age: 9    Price: $399,000.00 Distance: 12  Jurisdiction: Arlington
+
+Style: Cape Cod       Bedrooms: 4   Bathrooms:  2.5 Lot size: 0.1  Square acre
+   Age: 12    Price: $269,000.00 Distance: 3.5  Jurisdiction: Fairfax
+
+Style: Georgian       Bedrooms: 3   Bathrooms:  2.0 Lot size: 0.2  Square acre
+   Age: 20    Price: $359,000.00 Distance: 11  Jurisdiction: Arlington
+
+Style: Colonial       Bedrooms: 4   Bathrooms:  2.0 Lot size: 0.4  Square acre
+   Age: 12    Price: $558,000.00 Distance: 1  Jurisdiction: Alexandria
+
+Style: Condominium       Bedrooms: 1   Bathrooms:  1.0 Lot size: 0.0  Square acre
+   Age: 14    Price: $105,000.00 Distance: 6  Jurisdiction: Fairfax
+
+Style: Colonial       Bedrooms: 3   Bathrooms:  2.0 Lot size: 0.4  Square acre
+   Age: 8    Price: $389,000.00 Distance: 6  Jurisdiction: Fairfax
+
+Style: Townhouse       Bedrooms: 2   Bathrooms:  2.0 Lot size: 0.0  Square acre
+   Age: 12    Price: $159,000.00 Distance: 15  Jurisdiction: Fairfax
